@@ -1,0 +1,6 @@
+Aws crefentials default file
+cd /root/.aws/config
+
+cd /root
+ls
+cd .aws
